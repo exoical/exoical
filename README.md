@@ -1,2 +1,3 @@
 # exoical
-About exoical
+
+Matchup of Exotic and Tropical
